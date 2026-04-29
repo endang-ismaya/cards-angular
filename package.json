@@ -35,5 +35,10 @@
     "jest-environment-jsdom": "^30.3.0",
     "jest-preset-angular": "^16.1.4",
     "typescript": "~5.7.2"
+  },
+  "overrides": {
+    "tar": "^7.5.3",
+    "serialize-javascript": "^7.0.3",
+    "uuid": "^14.0.0"
   }
 }
